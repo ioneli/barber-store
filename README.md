@@ -98,5 +98,6 @@ git commit -m "Mesajul tău aici"
 
 # Trimite la remote
 git push origin main
+```
 
 autor: Ionel Scutaru
