@@ -54,9 +54,9 @@ pip install -r requirements.txt
 # Rulează serverul
 python app.py
 
-Backend-ul va porni de obicei pe http://localhost:5000.
+# Backend-ul va porni de obicei pe http://localhost:5000.
 
-Setup Frontend
+# Setup Frontend
 # Navighează în folderul frontend
 cd frontend
 
@@ -66,21 +66,21 @@ npm install
 # Rulează aplicația în modul development
 npm start
 
-Frontend-ul va fi disponibil pe http://localhost:3000.
+# Frontend-ul va fi disponibil pe http://localhost:3000.
 
-Funcționalități
-Autentificare / Înregistrare clienți
-Dashboard administrativ și pentru clienți
-Gestionare servicii și produse
-Calendar pentru programări
-Integrare Google login
-Deploy / Build
+# Funcționalități
+# Autentificare / Înregistrare clienți
+# Dashboard administrativ și pentru clienți
+# Gestionare servicii și produse
+# Calendar pentru programări
+# Integrare Google login
+# Deploy / Build
 # În frontend
 npm run build
 
-Acest build poate fi servit cu orice server static sau integrat în backend-ul Flask dacă vrei.
+#Acest build poate fi servit cu orice server static sau integrat în backend-ul Flask dacă vrei.
 
-Git
+# Git
 # Clonează repo
 git clone https://github.com/ioneli/barber-store.git
 
